@@ -6,4 +6,3 @@ if(true){
     int z = x+y;
 }
 int Age()=> 1;
-
